@@ -1,0 +1,2745 @@
+{
+  "base": "http://127.0.0.1:8080",
+  "started": "2026-11-06 13:52:50",
+  "totals": {
+    "PASS": 456
+  },
+  "results": [
+    {
+      "area": "routes",
+      "check": "/ returns 200",
+      "status": "PASS",
+      "detail": "200"
+    },
+    {
+      "area": "routes",
+      "check": "/ has exactly one H1",
+      "status": "PASS",
+      "detail": "1"
+    },
+    {
+      "area": "seo",
+      "check": "/ staging is noindex",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "seo",
+      "check": "/ title length 20\u201375",
+      "status": "PASS",
+      "detail": "58: Biological Dentistry in Naperville, IL | Raina Dental Care"
+    },
+    {
+      "area": "seo",
+      "check": "/ meta description 70\u2013170",
+      "status": "PASS",
+      "detail": "157"
+    },
+    {
+      "area": "content",
+      "check": "/ has no draft/forbidden phrases",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "area": "links",
+      "check": "/ external link rel noopener \u2192 https://www.google.com/maps/search/?api=1&query=2323+Napervi",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/ external link rel noopener \u2192 https://www.google.com/maps/search/?api=1&query=2323+Napervi",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/ external link rel noopener \u2192 https://www.facebook.com/Raina-Dental-Care-1453073548128969",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "routes",
+      "check": "/care/exams/ returns 200",
+      "status": "PASS",
+      "detail": "200"
+    },
+    {
+      "area": "routes",
+      "check": "/care/exams/ has exactly one H1",
+      "status": "PASS",
+      "detail": "1"
+    },
+    {
+      "area": "seo",
+      "check": "/care/exams/ staging is noindex",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "seo",
+      "check": "/care/exams/ title length 20\u201375",
+      "status": "PASS",
+      "detail": "70: Dental Exams & Cleanings: What Each Visit Includes | Raina Dental Care"
+    },
+    {
+      "area": "seo",
+      "check": "/care/exams/ meta description 70\u2013170",
+      "status": "PASS",
+      "detail": "141"
+    },
+    {
+      "area": "content",
+      "check": "/care/exams/ has no draft/forbidden phrases",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "area": "links",
+      "check": "/care/exams/ external link rel noopener \u2192 https://www.mouthhealthy.org/all-topics-a-z/x-rays",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/care/exams/ external link rel noopener \u2192 https://www.google.com/maps/search/?api=1&query=2323+Napervi",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/care/exams/ external link rel noopener \u2192 https://www.facebook.com/Raina-Dental-Care-1453073548128969",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "routes",
+      "check": "/care/emergency/ returns 200",
+      "status": "PASS",
+      "detail": "200"
+    },
+    {
+      "area": "routes",
+      "check": "/care/emergency/ has exactly one H1",
+      "status": "PASS",
+      "detail": "1"
+    },
+    {
+      "area": "seo",
+      "check": "/care/emergency/ staging is noindex",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "seo",
+      "check": "/care/emergency/ title length 20\u201375",
+      "status": "PASS",
+      "detail": "71: Emergency Dental Care: Toothache, Breaks & Swelling | Raina Dental Care"
+    },
+    {
+      "area": "seo",
+      "check": "/care/emergency/ meta description 70\u2013170",
+      "status": "PASS",
+      "detail": "134"
+    },
+    {
+      "area": "content",
+      "check": "/care/emergency/ has no draft/forbidden phrases",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "area": "links",
+      "check": "/care/emergency/ external link rel noopener \u2192 https://www.mouthhealthy.org/all-topics-a-z/dental-emergenci",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/care/emergency/ external link rel noopener \u2192 https://www.google.com/maps/search/?api=1&query=2323+Napervi",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/care/emergency/ external link rel noopener \u2192 https://www.facebook.com/Raina-Dental-Care-1453073548128969",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "routes",
+      "check": "/care/oral-screening/ returns 200",
+      "status": "PASS",
+      "detail": "200"
+    },
+    {
+      "area": "routes",
+      "check": "/care/oral-screening/ has exactly one H1",
+      "status": "PASS",
+      "detail": "1"
+    },
+    {
+      "area": "seo",
+      "check": "/care/oral-screening/ staging is noindex",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "seo",
+      "check": "/care/oral-screening/ title length 20\u201375",
+      "status": "PASS",
+      "detail": "66: Oral Cancer Screening: What the Check Involves | Raina Dental Care"
+    },
+    {
+      "area": "seo",
+      "check": "/care/oral-screening/ meta description 70\u2013170",
+      "status": "PASS",
+      "detail": "133"
+    },
+    {
+      "area": "content",
+      "check": "/care/oral-screening/ has no draft/forbidden phrases",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "area": "links",
+      "check": "/care/oral-screening/ external link rel noopener \u2192 https://www.nidcr.nih.gov/health-info/oral-cancer",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/care/oral-screening/ external link rel noopener \u2192 https://www.cancer.gov/types/head-and-neck/patient/oral-scre",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/care/oral-screening/ external link rel noopener \u2192 https://www.google.com/maps/search/?api=1&query=2323+Napervi",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/care/oral-screening/ external link rel noopener \u2192 https://www.facebook.com/Raina-Dental-Care-1453073548128969",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "routes",
+      "check": "/care/pediatric/ returns 200",
+      "status": "PASS",
+      "detail": "200"
+    },
+    {
+      "area": "routes",
+      "check": "/care/pediatric/ has exactly one H1",
+      "status": "PASS",
+      "detail": "1"
+    },
+    {
+      "area": "seo",
+      "check": "/care/pediatric/ staging is noindex",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "seo",
+      "check": "/care/pediatric/ title length 20\u201375",
+      "status": "PASS",
+      "detail": "67: Children\u2019s Dental Care: First Visits & Checkups | Raina Dental Care"
+    },
+    {
+      "area": "seo",
+      "check": "/care/pediatric/ meta description 70\u2013170",
+      "status": "PASS",
+      "detail": "146"
+    },
+    {
+      "area": "content",
+      "check": "/care/pediatric/ has no draft/forbidden phrases",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "area": "links",
+      "check": "/care/pediatric/ external link rel noopener \u2192 https://www.aapd.org/resources/parent/faq/",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/care/pediatric/ external link rel noopener \u2192 https://www.google.com/maps/search/?api=1&query=2323+Napervi",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/care/pediatric/ external link rel noopener \u2192 https://www.facebook.com/Raina-Dental-Care-1453073548128969",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "routes",
+      "check": "/care/fillings/ returns 200",
+      "status": "PASS",
+      "detail": "200"
+    },
+    {
+      "area": "routes",
+      "check": "/care/fillings/ has exactly one H1",
+      "status": "PASS",
+      "detail": "1"
+    },
+    {
+      "area": "seo",
+      "check": "/care/fillings/ staging is noindex",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "seo",
+      "check": "/care/fillings/ title length 20\u201375",
+      "status": "PASS",
+      "detail": "72: Dental Fillings: Repairing Decay & Worn Restorations | Raina Dental Care"
+    },
+    {
+      "area": "seo",
+      "check": "/care/fillings/ meta description 70\u2013170",
+      "status": "PASS",
+      "detail": "153"
+    },
+    {
+      "area": "content",
+      "check": "/care/fillings/ has no draft/forbidden phrases",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "area": "links",
+      "check": "/care/fillings/ external link rel noopener \u2192 https://www.nidcr.nih.gov/health-info/tooth-decay",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/care/fillings/ external link rel noopener \u2192 https://www.fda.gov/medical-devices/dental-amalgam-fillings/",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/care/fillings/ external link rel noopener \u2192 https://www.google.com/maps/search/?api=1&query=2323+Napervi",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/care/fillings/ external link rel noopener \u2192 https://www.facebook.com/Raina-Dental-Care-1453073548128969",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "routes",
+      "check": "/care/crowns/ returns 200",
+      "status": "PASS",
+      "detail": "200"
+    },
+    {
+      "area": "routes",
+      "check": "/care/crowns/ has exactly one H1",
+      "status": "PASS",
+      "detail": "1"
+    },
+    {
+      "area": "seo",
+      "check": "/care/crowns/ staging is noindex",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "seo",
+      "check": "/care/crowns/ title length 20\u201375",
+      "status": "PASS",
+      "detail": "68: Crowns & Bridges: Protecting and Replacing Teeth | Raina Dental Care"
+    },
+    {
+      "area": "seo",
+      "check": "/care/crowns/ meta description 70\u2013170",
+      "status": "PASS",
+      "detail": "151"
+    },
+    {
+      "area": "content",
+      "check": "/care/crowns/ has no draft/forbidden phrases",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "area": "links",
+      "check": "/care/crowns/ external link rel noopener \u2192 https://www.mouthhealthy.org/all-topics-a-z/crowns",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/care/crowns/ external link rel noopener \u2192 https://www.mouthhealthy.org/all-topics-a-z/bridges",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/care/crowns/ external link rel noopener \u2192 https://www.google.com/maps/search/?api=1&query=2323+Napervi",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/care/crowns/ external link rel noopener \u2192 https://www.facebook.com/Raina-Dental-Care-1453073548128969",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "routes",
+      "check": "/care/dentures/ returns 200",
+      "status": "PASS",
+      "detail": "200"
+    },
+    {
+      "area": "routes",
+      "check": "/care/dentures/ has exactly one H1",
+      "status": "PASS",
+      "detail": "1"
+    },
+    {
+      "area": "seo",
+      "check": "/care/dentures/ staging is noindex",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "seo",
+      "check": "/care/dentures/ title length 20\u201375",
+      "status": "PASS",
+      "detail": "71: Dentures: Partial, Full & Implant-Supported Options | Raina Dental Care"
+    },
+    {
+      "area": "seo",
+      "check": "/care/dentures/ meta description 70\u2013170",
+      "status": "PASS",
+      "detail": "152"
+    },
+    {
+      "area": "content",
+      "check": "/care/dentures/ has no draft/forbidden phrases",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "area": "links",
+      "check": "/care/dentures/ external link rel noopener \u2192 https://www.mouthhealthy.org/all-topics-a-z/dentures",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/care/dentures/ external link rel noopener \u2192 https://www.google.com/maps/search/?api=1&query=2323+Napervi",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/care/dentures/ external link rel noopener \u2192 https://www.facebook.com/Raina-Dental-Care-1453073548128969",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "routes",
+      "check": "/care/periodontal/ returns 200",
+      "status": "PASS",
+      "detail": "200"
+    },
+    {
+      "area": "routes",
+      "check": "/care/periodontal/ has exactly one H1",
+      "status": "PASS",
+      "detail": "1"
+    },
+    {
+      "area": "seo",
+      "check": "/care/periodontal/ staging is noindex",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "seo",
+      "check": "/care/periodontal/ title length 20\u201375",
+      "status": "PASS",
+      "detail": "73: Periodontal Treatment: Gum Disease Care & Maintenance | Raina Dental Care"
+    },
+    {
+      "area": "seo",
+      "check": "/care/periodontal/ meta description 70\u2013170",
+      "status": "PASS",
+      "detail": "150"
+    },
+    {
+      "area": "content",
+      "check": "/care/periodontal/ has no draft/forbidden phrases",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "area": "links",
+      "check": "/care/periodontal/ external link rel noopener \u2192 https://www.nidcr.nih.gov/health-info/gum-disease",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/care/periodontal/ external link rel noopener \u2192 https://www.mouthhealthy.org/all-topics-a-z/gum-disease",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/care/periodontal/ external link rel noopener \u2192 https://www.google.com/maps/search/?api=1&query=2323+Napervi",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/care/periodontal/ external link rel noopener \u2192 https://www.facebook.com/Raina-Dental-Care-1453073548128969",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "routes",
+      "check": "/care/root-canals/ returns 200",
+      "status": "PASS",
+      "detail": "200"
+    },
+    {
+      "area": "routes",
+      "check": "/care/root-canals/ has exactly one H1",
+      "status": "PASS",
+      "detail": "1"
+    },
+    {
+      "area": "seo",
+      "check": "/care/root-canals/ staging is noindex",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "seo",
+      "check": "/care/root-canals/ title length 20\u201375",
+      "status": "PASS",
+      "detail": "70: Root Canal Treatment: What It Involves & Aftercare | Raina Dental Care"
+    },
+    {
+      "area": "seo",
+      "check": "/care/root-canals/ meta description 70\u2013170",
+      "status": "PASS",
+      "detail": "145"
+    },
+    {
+      "area": "content",
+      "check": "/care/root-canals/ has no draft/forbidden phrases",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "area": "links",
+      "check": "/care/root-canals/ external link rel noopener \u2192 https://www.mouthhealthy.org/all-topics-a-z/root-canals",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/care/root-canals/ external link rel noopener \u2192 https://www.google.com/maps/search/?api=1&query=2323+Napervi",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/care/root-canals/ external link rel noopener \u2192 https://www.facebook.com/Raina-Dental-Care-1453073548128969",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "routes",
+      "check": "/care/implants/ returns 200",
+      "status": "PASS",
+      "detail": "200"
+    },
+    {
+      "area": "routes",
+      "check": "/care/implants/ has exactly one H1",
+      "status": "PASS",
+      "detail": "1"
+    },
+    {
+      "area": "seo",
+      "check": "/care/implants/ staging is noindex",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "seo",
+      "check": "/care/implants/ title length 20\u201375",
+      "status": "PASS",
+      "detail": "63: Dental Implants: Planning, Placement & Care | Raina Dental Care"
+    },
+    {
+      "area": "seo",
+      "check": "/care/implants/ meta description 70\u2013170",
+      "status": "PASS",
+      "detail": "152"
+    },
+    {
+      "area": "content",
+      "check": "/care/implants/ has no draft/forbidden phrases",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "area": "links",
+      "check": "/care/implants/ external link rel noopener \u2192 https://www.fda.gov/medical-devices/dental-devices/dental-im",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/care/implants/ external link rel noopener \u2192 https://www.mouthhealthy.org/all-topics-a-z/implants",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/care/implants/ external link rel noopener \u2192 https://www.google.com/maps/search/?api=1&query=2323+Napervi",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/care/implants/ external link rel noopener \u2192 https://www.facebook.com/Raina-Dental-Care-1453073548128969",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "routes",
+      "check": "/care/all-on-4/ returns 200",
+      "status": "PASS",
+      "detail": "200"
+    },
+    {
+      "area": "routes",
+      "check": "/care/all-on-4/ has exactly one H1",
+      "status": "PASS",
+      "detail": "1"
+    },
+    {
+      "area": "seo",
+      "check": "/care/all-on-4/ staging is noindex",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "seo",
+      "check": "/care/all-on-4/ title length 20\u201375",
+      "status": "PASS",
+      "detail": "70: All-on-4 Full-Arch Implants: Fixed Teeth Explained | Raina Dental Care"
+    },
+    {
+      "area": "seo",
+      "check": "/care/all-on-4/ meta description 70\u2013170",
+      "status": "PASS",
+      "detail": "147"
+    },
+    {
+      "area": "content",
+      "check": "/care/all-on-4/ has no draft/forbidden phrases",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "area": "links",
+      "check": "/care/all-on-4/ external link rel noopener \u2192 https://www.fda.gov/medical-devices/dental-devices/dental-im",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/care/all-on-4/ external link rel noopener \u2192 https://www.mouthhealthy.org/all-topics-a-z/dentures",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/care/all-on-4/ external link rel noopener \u2192 https://www.google.com/maps/search/?api=1&query=2323+Napervi",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/care/all-on-4/ external link rel noopener \u2192 https://www.facebook.com/Raina-Dental-Care-1453073548128969",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "routes",
+      "check": "/care/oral-surgery/ returns 200",
+      "status": "PASS",
+      "detail": "200"
+    },
+    {
+      "area": "routes",
+      "check": "/care/oral-surgery/ has exactly one H1",
+      "status": "PASS",
+      "detail": "1"
+    },
+    {
+      "area": "seo",
+      "check": "/care/oral-surgery/ staging is noindex",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "seo",
+      "check": "/care/oral-surgery/ title length 20\u201375",
+      "status": "PASS",
+      "detail": "71: Oral Surgery: Surgical Care and Specialist Referral | Raina Dental Care"
+    },
+    {
+      "area": "seo",
+      "check": "/care/oral-surgery/ meta description 70\u2013170",
+      "status": "PASS",
+      "detail": "142"
+    },
+    {
+      "area": "content",
+      "check": "/care/oral-surgery/ has no draft/forbidden phrases",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "area": "links",
+      "check": "/care/oral-surgery/ external link rel noopener \u2192 https://www.mouthhealthy.org/all-topics-a-z/extractions",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/care/oral-surgery/ external link rel noopener \u2192 https://www.mouthhealthy.org/all-topics-a-z/wisdom-teeth",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/care/oral-surgery/ external link rel noopener \u2192 https://www.google.com/maps/search/?api=1&query=2323+Napervi",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/care/oral-surgery/ external link rel noopener \u2192 https://www.facebook.com/Raina-Dental-Care-1453073548128969",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "routes",
+      "check": "/care/extractions/ returns 200",
+      "status": "PASS",
+      "detail": "200"
+    },
+    {
+      "area": "routes",
+      "check": "/care/extractions/ has exactly one H1",
+      "status": "PASS",
+      "detail": "1"
+    },
+    {
+      "area": "seo",
+      "check": "/care/extractions/ staging is noindex",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "seo",
+      "check": "/care/extractions/ title length 20\u201375",
+      "status": "PASS",
+      "detail": "67: Tooth Extractions: Simple, Surgical & Aftercare | Raina Dental Care"
+    },
+    {
+      "area": "seo",
+      "check": "/care/extractions/ meta description 70\u2013170",
+      "status": "PASS",
+      "detail": "148"
+    },
+    {
+      "area": "content",
+      "check": "/care/extractions/ has no draft/forbidden phrases",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "area": "links",
+      "check": "/care/extractions/ external link rel noopener \u2192 https://www.mouthhealthy.org/all-topics-a-z/extractions",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/care/extractions/ external link rel noopener \u2192 https://www.mouthhealthy.org/all-topics-a-z/dry-socket",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/care/extractions/ external link rel noopener \u2192 https://www.google.com/maps/search/?api=1&query=2323+Napervi",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/care/extractions/ external link rel noopener \u2192 https://www.facebook.com/Raina-Dental-Care-1453073548128969",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "routes",
+      "check": "/care/aligners/ returns 200",
+      "status": "PASS",
+      "detail": "200"
+    },
+    {
+      "area": "routes",
+      "check": "/care/aligners/ has exactly one H1",
+      "status": "PASS",
+      "detail": "1"
+    },
+    {
+      "area": "seo",
+      "check": "/care/aligners/ staging is noindex",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "seo",
+      "check": "/care/aligners/ title length 20\u201375",
+      "status": "PASS",
+      "detail": "75: Braces & Clear Aligners: Options, Timelines & Retainers | Raina Dental Care"
+    },
+    {
+      "area": "seo",
+      "check": "/care/aligners/ meta description 70\u2013170",
+      "status": "PASS",
+      "detail": "138"
+    },
+    {
+      "area": "content",
+      "check": "/care/aligners/ has no draft/forbidden phrases",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "area": "links",
+      "check": "/care/aligners/ external link rel noopener \u2192 https://www.mouthhealthy.org/all-topics-a-z/braces",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/care/aligners/ external link rel noopener \u2192 https://www.mouthhealthy.org/all-topics-a-z/orthodontics",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/care/aligners/ external link rel noopener \u2192 https://www.google.com/maps/search/?api=1&query=2323+Napervi",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/care/aligners/ external link rel noopener \u2192 https://www.facebook.com/Raina-Dental-Care-1453073548128969",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "routes",
+      "check": "/care/whitening/ returns 200",
+      "status": "PASS",
+      "detail": "200"
+    },
+    {
+      "area": "routes",
+      "check": "/care/whitening/ has exactly one H1",
+      "status": "PASS",
+      "detail": "1"
+    },
+    {
+      "area": "seo",
+      "check": "/care/whitening/ staging is noindex",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "seo",
+      "check": "/care/whitening/ title length 20\u201375",
+      "status": "PASS",
+      "detail": "63: Teeth Whitening: In-Office vs At-Home Trays | Raina Dental Care"
+    },
+    {
+      "area": "seo",
+      "check": "/care/whitening/ meta description 70\u2013170",
+      "status": "PASS",
+      "detail": "144"
+    },
+    {
+      "area": "content",
+      "check": "/care/whitening/ has no draft/forbidden phrases",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "area": "links",
+      "check": "/care/whitening/ external link rel noopener \u2192 https://www.mouthhealthy.org/all-topics-a-z/teeth-whitening",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/care/whitening/ external link rel noopener \u2192 https://www.google.com/maps/search/?api=1&query=2323+Napervi",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/care/whitening/ external link rel noopener \u2192 https://www.facebook.com/Raina-Dental-Care-1453073548128969",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "routes",
+      "check": "/care/veneers/ returns 200",
+      "status": "PASS",
+      "detail": "200"
+    },
+    {
+      "area": "routes",
+      "check": "/care/veneers/ has exactly one H1",
+      "status": "PASS",
+      "detail": "1"
+    },
+    {
+      "area": "seo",
+      "check": "/care/veneers/ staging is noindex",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "seo",
+      "check": "/care/veneers/ title length 20\u201375",
+      "status": "PASS",
+      "detail": "64: Veneers: Porcelain, Composite & Alternatives | Raina Dental Care"
+    },
+    {
+      "area": "seo",
+      "check": "/care/veneers/ meta description 70\u2013170",
+      "status": "PASS",
+      "detail": "150"
+    },
+    {
+      "area": "content",
+      "check": "/care/veneers/ has no draft/forbidden phrases",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "area": "links",
+      "check": "/care/veneers/ external link rel noopener \u2192 https://www.mouthhealthy.org/all-topics-a-z/veneers",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/care/veneers/ external link rel noopener \u2192 https://www.google.com/maps/search/?api=1&query=2323+Napervi",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/care/veneers/ external link rel noopener \u2192 https://www.facebook.com/Raina-Dental-Care-1453073548128969",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "routes",
+      "check": "/care/sedation/ returns 200",
+      "status": "PASS",
+      "detail": "200"
+    },
+    {
+      "area": "routes",
+      "check": "/care/sedation/ has exactly one H1",
+      "status": "PASS",
+      "detail": "1"
+    },
+    {
+      "area": "seo",
+      "check": "/care/sedation/ staging is noindex",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "seo",
+      "check": "/care/sedation/ title length 20\u201375",
+      "status": "PASS",
+      "detail": "62: Sedation & Comfort Options for Dental Care | Raina Dental Care"
+    },
+    {
+      "area": "seo",
+      "check": "/care/sedation/ meta description 70\u2013170",
+      "status": "PASS",
+      "detail": "144"
+    },
+    {
+      "area": "content",
+      "check": "/care/sedation/ has no draft/forbidden phrases",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "area": "links",
+      "check": "/care/sedation/ external link rel noopener \u2192 https://www.mouthhealthy.org/all-topics-a-z/anesthesia-and-s",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/care/sedation/ external link rel noopener \u2192 https://www.google.com/maps/search/?api=1&query=2323+Napervi",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/care/sedation/ external link rel noopener \u2192 https://www.facebook.com/Raina-Dental-Care-1453073548128969",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "routes",
+      "check": "/care/pain-management/ reachable on staging for review",
+      "status": "PASS",
+      "detail": "200"
+    },
+    {
+      "area": "routes",
+      "check": "/care/sleep-apnea/ reachable on staging for review",
+      "status": "PASS",
+      "detail": "200"
+    },
+    {
+      "area": "routes",
+      "check": "/care/dermal-fillers/ reachable on staging for review",
+      "status": "PASS",
+      "detail": "200"
+    },
+    {
+      "area": "routes",
+      "check": "/care/smart/ returns 200",
+      "status": "PASS",
+      "detail": "200"
+    },
+    {
+      "area": "routes",
+      "check": "/care/smart/ has exactly one H1",
+      "status": "PASS",
+      "detail": "1"
+    },
+    {
+      "area": "seo",
+      "check": "/care/smart/ staging is noindex",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "seo",
+      "check": "/care/smart/ title length 20\u201375",
+      "status": "PASS",
+      "detail": "68: SMART Amalgam Removal: Decisions and Precautions | Raina Dental Care"
+    },
+    {
+      "area": "seo",
+      "check": "/care/smart/ meta description 70\u2013170",
+      "status": "PASS",
+      "detail": "145"
+    },
+    {
+      "area": "content",
+      "check": "/care/smart/ has no draft/forbidden phrases",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "area": "links",
+      "check": "/care/smart/ external link rel noopener \u2192 https://www.fda.gov/medical-devices/dental-devices/dental-am",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/care/smart/ external link rel noopener \u2192 https://www.fda.gov/news-events/press-announcements/fda-issu",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/care/smart/ external link rel noopener \u2192 https://www.google.com/maps/search/?api=1&query=2323+Napervi",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/care/smart/ external link rel noopener \u2192 https://www.facebook.com/Raina-Dental-Care-1453073548128969",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "routes",
+      "check": "/care/ozone/ returns 200",
+      "status": "PASS",
+      "detail": "200"
+    },
+    {
+      "area": "routes",
+      "check": "/care/ozone/ has exactly one H1",
+      "status": "PASS",
+      "detail": "1"
+    },
+    {
+      "area": "seo",
+      "check": "/care/ozone/ staging is noindex",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "seo",
+      "check": "/care/ozone/ title length 20\u201375",
+      "status": "PASS",
+      "detail": "70: Dental Ozone Therapy: An Adjunct, Not a Substitute | Raina Dental Care"
+    },
+    {
+      "area": "seo",
+      "check": "/care/ozone/ meta description 70\u2013170",
+      "status": "PASS",
+      "detail": "141"
+    },
+    {
+      "area": "content",
+      "check": "/care/ozone/ has no draft/forbidden phrases",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "area": "links",
+      "check": "/care/ozone/ external link rel noopener \u2192 https://www.google.com/maps/search/?api=1&query=2323+Napervi",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/care/ozone/ external link rel noopener \u2192 https://www.facebook.com/Raina-Dental-Care-1453073548128969",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "routes",
+      "check": "/care/massage/ reachable on staging for review",
+      "status": "PASS",
+      "detail": "200"
+    },
+    {
+      "area": "routes",
+      "check": "/care/remineralization/ returns 200",
+      "status": "PASS",
+      "detail": "200"
+    },
+    {
+      "area": "routes",
+      "check": "/care/remineralization/ has exactly one H1",
+      "status": "PASS",
+      "detail": "1"
+    },
+    {
+      "area": "seo",
+      "check": "/care/remineralization/ staging is noindex",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "seo",
+      "check": "/care/remineralization/ title length 20\u201375",
+      "status": "PASS",
+      "detail": "65: Enamel Remineralization: Treating Early Decay | Raina Dental Care"
+    },
+    {
+      "area": "seo",
+      "check": "/care/remineralization/ meta description 70\u2013170",
+      "status": "PASS",
+      "detail": "136"
+    },
+    {
+      "area": "content",
+      "check": "/care/remineralization/ has no draft/forbidden phrases",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "area": "links",
+      "check": "/care/remineralization/ external link rel noopener \u2192 https://www.nidcr.nih.gov/health-info/tooth-decay",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/care/remineralization/ external link rel noopener \u2192 https://www.google.com/maps/search/?api=1&query=2323+Napervi",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/care/remineralization/ external link rel noopener \u2192 https://www.facebook.com/Raina-Dental-Care-1453073548128969",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "routes",
+      "check": "/care/nutrition/ returns 200",
+      "status": "PASS",
+      "detail": "200"
+    },
+    {
+      "area": "routes",
+      "check": "/care/nutrition/ has exactly one H1",
+      "status": "PASS",
+      "detail": "1"
+    },
+    {
+      "area": "seo",
+      "check": "/care/nutrition/ staging is noindex",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "seo",
+      "check": "/care/nutrition/ title length 20\u201375",
+      "status": "PASS",
+      "detail": "65: Nutrition & Oral Health: Diet, Decay and Gums | Raina Dental Care"
+    },
+    {
+      "area": "seo",
+      "check": "/care/nutrition/ meta description 70\u2013170",
+      "status": "PASS",
+      "detail": "136"
+    },
+    {
+      "area": "content",
+      "check": "/care/nutrition/ has no draft/forbidden phrases",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "area": "links",
+      "check": "/care/nutrition/ external link rel noopener \u2192 https://www.mouthhealthy.org/all-topics-a-z/diet-and-dental-",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/care/nutrition/ external link rel noopener \u2192 https://www.google.com/maps/search/?api=1&query=2323+Napervi",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/care/nutrition/ external link rel noopener \u2192 https://www.facebook.com/Raina-Dental-Care-1453073548128969",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "routes",
+      "check": "/care/membership/ returns 200",
+      "status": "PASS",
+      "detail": "200"
+    },
+    {
+      "area": "routes",
+      "check": "/care/membership/ has exactly one H1",
+      "status": "PASS",
+      "detail": "1"
+    },
+    {
+      "area": "seo",
+      "check": "/care/membership/ staging is noindex",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "seo",
+      "check": "/care/membership/ title length 20\u201375",
+      "status": "PASS",
+      "detail": "52: In-House Dental Membership Plans | Raina Dental Care"
+    },
+    {
+      "area": "seo",
+      "check": "/care/membership/ meta description 70\u2013170",
+      "status": "PASS",
+      "detail": "149"
+    },
+    {
+      "area": "content",
+      "check": "/care/membership/ has no draft/forbidden phrases",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "area": "links",
+      "check": "/care/membership/ external link rel noopener \u2192 https://www.google.com/maps/search/?api=1&query=2323+Napervi",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/care/membership/ external link rel noopener \u2192 https://www.facebook.com/Raina-Dental-Care-1453073548128969",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "routes",
+      "check": "/care/team/ returns 200",
+      "status": "PASS",
+      "detail": "200"
+    },
+    {
+      "area": "routes",
+      "check": "/care/team/ has exactly one H1",
+      "status": "PASS",
+      "detail": "1"
+    },
+    {
+      "area": "seo",
+      "check": "/care/team/ staging is noindex",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "seo",
+      "check": "/care/team/ title length 20\u201375",
+      "status": "PASS",
+      "detail": "73: Meet Our Dentists: Dr. Mandeep Raina & Dr. Prameela B | Raina Dental Care"
+    },
+    {
+      "area": "seo",
+      "check": "/care/team/ meta description 70\u2013170",
+      "status": "PASS",
+      "detail": "138"
+    },
+    {
+      "area": "content",
+      "check": "/care/team/ has no draft/forbidden phrases",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "area": "links",
+      "check": "/care/team/ external link rel noopener \u2192 https://www.google.com/maps/search/?api=1&query=2323+Napervi",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/care/team/ external link rel noopener \u2192 https://www.facebook.com/Raina-Dental-Care-1453073548128969",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "routes",
+      "check": "/care/patient-stories/ returns 200",
+      "status": "PASS",
+      "detail": "200"
+    },
+    {
+      "area": "routes",
+      "check": "/care/patient-stories/ has exactly one H1",
+      "status": "PASS",
+      "detail": "1"
+    },
+    {
+      "area": "seo",
+      "check": "/care/patient-stories/ staging is noindex",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "seo",
+      "check": "/care/patient-stories/ title length 20\u201375",
+      "status": "PASS",
+      "detail": "45: Patient Reviews & Stories | Raina Dental Care"
+    },
+    {
+      "area": "seo",
+      "check": "/care/patient-stories/ meta description 70\u2013170",
+      "status": "PASS",
+      "detail": "137"
+    },
+    {
+      "area": "content",
+      "check": "/care/patient-stories/ has no draft/forbidden phrases",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "area": "links",
+      "check": "/care/patient-stories/ external link rel noopener \u2192 https://www.google.com/maps/search/?api=1&query=Raina+Dental",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/care/patient-stories/ external link rel noopener \u2192 https://www.google.com/maps/search/?api=1&query=2323+Napervi",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/care/patient-stories/ external link rel noopener \u2192 https://www.facebook.com/Raina-Dental-Care-1453073548128969",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "routes",
+      "check": "/care/payment/ returns 200",
+      "status": "PASS",
+      "detail": "200"
+    },
+    {
+      "area": "routes",
+      "check": "/care/payment/ has exactly one H1",
+      "status": "PASS",
+      "detail": "1"
+    },
+    {
+      "area": "seo",
+      "check": "/care/payment/ staging is noindex",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "seo",
+      "check": "/care/payment/ title length 20\u201375",
+      "status": "PASS",
+      "detail": "50: Insurance, Payment & Financing | Raina Dental Care"
+    },
+    {
+      "area": "seo",
+      "check": "/care/payment/ meta description 70\u2013170",
+      "status": "PASS",
+      "detail": "138"
+    },
+    {
+      "area": "content",
+      "check": "/care/payment/ has no draft/forbidden phrases",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "area": "links",
+      "check": "/care/payment/ external link rel noopener \u2192 https://www.google.com/maps/search/?api=1&query=2323+Napervi",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/care/payment/ external link rel noopener \u2192 https://www.facebook.com/Raina-Dental-Care-1453073548128969",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "routes",
+      "check": "/care/appointments/ returns 200",
+      "status": "PASS",
+      "detail": "200"
+    },
+    {
+      "area": "routes",
+      "check": "/care/appointments/ has exactly one H1",
+      "status": "PASS",
+      "detail": "1"
+    },
+    {
+      "area": "seo",
+      "check": "/care/appointments/ staging is noindex",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "seo",
+      "check": "/care/appointments/ title length 20\u201375",
+      "status": "PASS",
+      "detail": "48: Schedule a Visit | Raina Dental Care, Naperville"
+    },
+    {
+      "area": "seo",
+      "check": "/care/appointments/ meta description 70\u2013170",
+      "status": "PASS",
+      "detail": "142"
+    },
+    {
+      "area": "content",
+      "check": "/care/appointments/ has no draft/forbidden phrases",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "area": "links",
+      "check": "/care/appointments/ external link rel noopener \u2192 https://www.google.com/maps/search/?api=1&query=2323+Napervi",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/care/appointments/ external link rel noopener \u2192 https://www.facebook.com/Raina-Dental-Care-1453073548128969",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "routes",
+      "check": "/care/privacy/ returns 200",
+      "status": "PASS",
+      "detail": "200"
+    },
+    {
+      "area": "routes",
+      "check": "/care/privacy/ has exactly one H1",
+      "status": "PASS",
+      "detail": "1"
+    },
+    {
+      "area": "seo",
+      "check": "/care/privacy/ staging is noindex",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "seo",
+      "check": "/care/privacy/ title length 20\u201375",
+      "status": "PASS",
+      "detail": "35: Website Privacy | Raina Dental Care"
+    },
+    {
+      "area": "seo",
+      "check": "/care/privacy/ meta description 70\u2013170",
+      "status": "PASS",
+      "detail": "154"
+    },
+    {
+      "area": "content",
+      "check": "/care/privacy/ has no draft/forbidden phrases",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "area": "links",
+      "check": "/care/privacy/ external link rel noopener \u2192 https://www.google.com/maps/search/?api=1&query=2323+Napervi",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/care/privacy/ external link rel noopener \u2192 https://www.facebook.com/Raina-Dental-Care-1453073548128969",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "routes",
+      "check": "/journal/ returns 200",
+      "status": "PASS",
+      "detail": "200"
+    },
+    {
+      "area": "routes",
+      "check": "/journal/ has exactly one H1",
+      "status": "PASS",
+      "detail": "1"
+    },
+    {
+      "area": "seo",
+      "check": "/journal/ staging is noindex",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "seo",
+      "check": "/journal/ title length 20\u201375",
+      "status": "PASS",
+      "detail": "37: The Raina Journal | Raina Dental Care"
+    },
+    {
+      "area": "seo",
+      "check": "/journal/ meta description 70\u2013170",
+      "status": "PASS",
+      "detail": "97"
+    },
+    {
+      "area": "content",
+      "check": "/journal/ has no draft/forbidden phrases",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "area": "links",
+      "check": "/journal/ external link rel noopener \u2192 https://www.google.com/maps/search/?api=1&query=2323+Napervi",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/journal/ external link rel noopener \u2192 https://www.facebook.com/Raina-Dental-Care-1453073548128969",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "routes",
+      "check": "/journal/what-biological-dentistry-means/ returns 200",
+      "status": "PASS",
+      "detail": "200"
+    },
+    {
+      "area": "routes",
+      "check": "/journal/what-biological-dentistry-means/ has exactly one H1",
+      "status": "PASS",
+      "detail": "1"
+    },
+    {
+      "area": "seo",
+      "check": "/journal/what-biological-dentistry-means/ staging is noindex",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "seo",
+      "check": "/journal/what-biological-dentistry-means/ title length 20\u201375",
+      "status": "PASS",
+      "detail": "63: What does whole-person dentistry look like? | Raina Dental Care"
+    },
+    {
+      "area": "seo",
+      "check": "/journal/what-biological-dentistry-means/ meta description 70\u2013170",
+      "status": "PASS",
+      "detail": "134"
+    },
+    {
+      "area": "content",
+      "check": "/journal/what-biological-dentistry-means/ has no draft/forbidden phrases",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "area": "links",
+      "check": "/journal/what-biological-dentistry-means/ external link rel noopener \u2192 https://www.google.com/maps/search/?api=1&query=2323+Napervi",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/journal/what-biological-dentistry-means/ external link rel noopener \u2192 https://www.facebook.com/Raina-Dental-Care-1453073548128969",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "routes",
+      "check": "/journal/silver-fillings-and-smart/ returns 200",
+      "status": "PASS",
+      "detail": "200"
+    },
+    {
+      "area": "routes",
+      "check": "/journal/silver-fillings-and-smart/ has exactly one H1",
+      "status": "PASS",
+      "detail": "1"
+    },
+    {
+      "area": "seo",
+      "check": "/journal/silver-fillings-and-smart/ staging is noindex",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "seo",
+      "check": "/journal/silver-fillings-and-smart/ title length 20\u201375",
+      "status": "PASS",
+      "detail": "56: Should a Silver Filling Be Replaced? | Raina Dental Care"
+    },
+    {
+      "area": "seo",
+      "check": "/journal/silver-fillings-and-smart/ meta description 70\u2013170",
+      "status": "PASS",
+      "detail": "137"
+    },
+    {
+      "area": "content",
+      "check": "/journal/silver-fillings-and-smart/ has no draft/forbidden phrases",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "area": "links",
+      "check": "/journal/silver-fillings-and-smart/ external link rel noopener \u2192 https://www.google.com/maps/search/?api=1&query=2323+Napervi",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/journal/silver-fillings-and-smart/ external link rel noopener \u2192 https://www.facebook.com/Raina-Dental-Care-1453073548128969",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "routes",
+      "check": "/journal/what-dental-images-can-show/ returns 200",
+      "status": "PASS",
+      "detail": "200"
+    },
+    {
+      "area": "routes",
+      "check": "/journal/what-dental-images-can-show/ has exactly one H1",
+      "status": "PASS",
+      "detail": "1"
+    },
+    {
+      "area": "seo",
+      "check": "/journal/what-dental-images-can-show/ staging is noindex",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "seo",
+      "check": "/journal/what-dental-images-can-show/ title length 20\u201375",
+      "status": "PASS",
+      "detail": "55: What a dental scan can help you see | Raina Dental Care"
+    },
+    {
+      "area": "seo",
+      "check": "/journal/what-dental-images-can-show/ meta description 70\u2013170",
+      "status": "PASS",
+      "detail": "127"
+    },
+    {
+      "area": "content",
+      "check": "/journal/what-dental-images-can-show/ has no draft/forbidden phrases",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "area": "links",
+      "check": "/journal/what-dental-images-can-show/ external link rel noopener \u2192 https://www.google.com/maps/search/?api=1&query=2323+Napervi",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/journal/what-dental-images-can-show/ external link rel noopener \u2192 https://www.facebook.com/Raina-Dental-Care-1453073548128969",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "routes",
+      "check": "/journal/questions-about-dental-ozone/ returns 200",
+      "status": "PASS",
+      "detail": "200"
+    },
+    {
+      "area": "routes",
+      "check": "/journal/questions-about-dental-ozone/ has exactly one H1",
+      "status": "PASS",
+      "detail": "1"
+    },
+    {
+      "area": "seo",
+      "check": "/journal/questions-about-dental-ozone/ staging is noindex",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "seo",
+      "check": "/journal/questions-about-dental-ozone/ title length 20\u201375",
+      "status": "PASS",
+      "detail": "61: Three questions to ask about dental ozone | Raina Dental Care"
+    },
+    {
+      "area": "seo",
+      "check": "/journal/questions-about-dental-ozone/ meta description 70\u2013170",
+      "status": "PASS",
+      "detail": "133"
+    },
+    {
+      "area": "content",
+      "check": "/journal/questions-about-dental-ozone/ has no draft/forbidden phrases",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "area": "links",
+      "check": "/journal/questions-about-dental-ozone/ external link rel noopener \u2192 https://www.google.com/maps/search/?api=1&query=2323+Napervi",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/journal/questions-about-dental-ozone/ external link rel noopener \u2192 https://www.facebook.com/Raina-Dental-Care-1453073548128969",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "routes",
+      "check": "/journal/a-calmer-first-visit/ returns 200",
+      "status": "PASS",
+      "detail": "200"
+    },
+    {
+      "area": "routes",
+      "check": "/journal/a-calmer-first-visit/ has exactly one H1",
+      "status": "PASS",
+      "detail": "1"
+    },
+    {
+      "area": "seo",
+      "check": "/journal/a-calmer-first-visit/ staging is noindex",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "seo",
+      "check": "/journal/a-calmer-first-visit/ title length 20\u201375",
+      "status": "PASS",
+      "detail": "73: How to make a first dental visit feel more manageable | Raina Dental Care"
+    },
+    {
+      "area": "seo",
+      "check": "/journal/a-calmer-first-visit/ meta description 70\u2013170",
+      "status": "PASS",
+      "detail": "97"
+    },
+    {
+      "area": "content",
+      "check": "/journal/a-calmer-first-visit/ has no draft/forbidden phrases",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "area": "links",
+      "check": "/journal/a-calmer-first-visit/ external link rel noopener \u2192 https://www.google.com/maps/search/?api=1&query=2323+Napervi",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/journal/a-calmer-first-visit/ external link rel noopener \u2192 https://www.facebook.com/Raina-Dental-Care-1453073548128969",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "routes",
+      "check": "/journal/what-a-preventive-visit-is-for/ returns 200",
+      "status": "PASS",
+      "detail": "200"
+    },
+    {
+      "area": "routes",
+      "check": "/journal/what-a-preventive-visit-is-for/ has exactly one H1",
+      "status": "PASS",
+      "detail": "1"
+    },
+    {
+      "area": "seo",
+      "check": "/journal/what-a-preventive-visit-is-for/ staging is noindex",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "seo",
+      "check": "/journal/what-a-preventive-visit-is-for/ title length 20\u201375",
+      "status": "PASS",
+      "detail": "57: Make your next preventive visit count | Raina Dental Care"
+    },
+    {
+      "area": "seo",
+      "check": "/journal/what-a-preventive-visit-is-for/ meta description 70\u2013170",
+      "status": "PASS",
+      "detail": "113"
+    },
+    {
+      "area": "content",
+      "check": "/journal/what-a-preventive-visit-is-for/ has no draft/forbidden phrases",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "area": "links",
+      "check": "/journal/what-a-preventive-visit-is-for/ external link rel noopener \u2192 https://www.google.com/maps/search/?api=1&query=2323+Napervi",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/journal/what-a-preventive-visit-is-for/ external link rel noopener \u2192 https://www.facebook.com/Raina-Dental-Care-1453073548128969",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "routes",
+      "check": "/care/ returns 200",
+      "status": "PASS",
+      "detail": "200"
+    },
+    {
+      "area": "routes",
+      "check": "/care/ has exactly one H1",
+      "status": "PASS",
+      "detail": "1"
+    },
+    {
+      "area": "seo",
+      "check": "/care/ staging is noindex",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "seo",
+      "check": "/care/ title length 20\u201375",
+      "status": "PASS",
+      "detail": "48: Dental Treatments & Services | Raina Dental Care"
+    },
+    {
+      "area": "seo",
+      "check": "/care/ meta description 70\u2013170",
+      "status": "PASS",
+      "detail": "134"
+    },
+    {
+      "area": "content",
+      "check": "/care/ has no draft/forbidden phrases",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "area": "links",
+      "check": "/care/ external link rel noopener \u2192 https://www.google.com/maps/search/?api=1&query=2323+Napervi",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/care/ external link rel noopener \u2192 https://www.facebook.com/Raina-Dental-Care-1453073548128969",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "routes",
+      "check": "/care/approach/ returns 200",
+      "status": "PASS",
+      "detail": "200"
+    },
+    {
+      "area": "routes",
+      "check": "/care/approach/ has exactly one H1",
+      "status": "PASS",
+      "detail": "1"
+    },
+    {
+      "area": "seo",
+      "check": "/care/approach/ staging is noindex",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "seo",
+      "check": "/care/approach/ title length 20\u201375",
+      "status": "PASS",
+      "detail": "56: Our approach to biological dentistry | Raina Dental Care"
+    },
+    {
+      "area": "seo",
+      "check": "/care/approach/ meta description 70\u2013170",
+      "status": "PASS",
+      "detail": "127"
+    },
+    {
+      "area": "content",
+      "check": "/care/approach/ has no draft/forbidden phrases",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "area": "links",
+      "check": "/care/approach/ external link rel noopener \u2192 https://www.google.com/maps/search/?api=1&query=2323+Napervi",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/care/approach/ external link rel noopener \u2192 https://www.facebook.com/Raina-Dental-Care-1453073548128969",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "routes",
+      "check": "/care/contact/ returns 200",
+      "status": "PASS",
+      "detail": "200"
+    },
+    {
+      "area": "routes",
+      "check": "/care/contact/ has exactly one H1",
+      "status": "PASS",
+      "detail": "1"
+    },
+    {
+      "area": "seo",
+      "check": "/care/contact/ staging is noindex",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "seo",
+      "check": "/care/contact/ title length 20\u201375",
+      "status": "PASS",
+      "detail": "52: Contact & Directions | Raina Dental Care, Naperville"
+    },
+    {
+      "area": "seo",
+      "check": "/care/contact/ meta description 70\u2013170",
+      "status": "PASS",
+      "detail": "147"
+    },
+    {
+      "area": "content",
+      "check": "/care/contact/ has no draft/forbidden phrases",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "area": "links",
+      "check": "/care/contact/ external link rel noopener \u2192 https://www.google.com/maps/search/?api=1&query=2323+Napervi",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/care/contact/ external link rel noopener \u2192 https://www.google.com/maps/search/?api=1&query=2323+Napervi",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/care/contact/ external link rel noopener \u2192 https://www.facebook.com/Raina-Dental-Care-1453073548128969",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "routes",
+      "check": "/care/technology/ returns 200",
+      "status": "PASS",
+      "detail": "200"
+    },
+    {
+      "area": "routes",
+      "check": "/care/technology/ has exactly one H1",
+      "status": "PASS",
+      "detail": "1"
+    },
+    {
+      "area": "seo",
+      "check": "/care/technology/ staging is noindex",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "seo",
+      "check": "/care/technology/ title length 20\u201375",
+      "status": "PASS",
+      "detail": "37: Technology & care | Raina Dental Care"
+    },
+    {
+      "area": "seo",
+      "check": "/care/technology/ meta description 70\u2013170",
+      "status": "PASS",
+      "detail": "107"
+    },
+    {
+      "area": "content",
+      "check": "/care/technology/ has no draft/forbidden phrases",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "area": "links",
+      "check": "/care/technology/ external link rel noopener \u2192 https://www.google.com/maps/search/?api=1&query=2323+Napervi",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/care/technology/ external link rel noopener \u2192 https://www.facebook.com/Raina-Dental-Care-1453073548128969",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "routes",
+      "check": "/care/additional/ returns 200",
+      "status": "PASS",
+      "detail": "200"
+    },
+    {
+      "area": "routes",
+      "check": "/care/additional/ has exactly one H1",
+      "status": "PASS",
+      "detail": "1"
+    },
+    {
+      "area": "seo",
+      "check": "/care/additional/ staging is noindex",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "seo",
+      "check": "/care/additional/ title length 20\u201375",
+      "status": "PASS",
+      "detail": "47: Additional care & referrals | Raina Dental Care"
+    },
+    {
+      "area": "seo",
+      "check": "/care/additional/ meta description 70\u2013170",
+      "status": "PASS",
+      "detail": "101"
+    },
+    {
+      "area": "content",
+      "check": "/care/additional/ has no draft/forbidden phrases",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "area": "links",
+      "check": "/care/additional/ external link rel noopener \u2192 https://www.google.com/maps/search/?api=1&query=2323+Napervi",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "links",
+      "check": "/care/additional/ external link rel noopener \u2192 https://www.facebook.com/Raina-Dental-Care-1453073548128969",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "seo",
+      "check": "all page titles unique",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "area": "seo",
+      "check": "all meta descriptions unique",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "area": "links",
+      "check": "internal link graph: 40 unique URLs resolve 200 without redirects",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "area": "redirects",
+      "check": "72 legacy URLs (with/without trailing slash) 301 in one hop to a 200 page",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "area": "redirects",
+      "check": "archive pattern /category/blog/ \u2192 301 journal/approach",
+      "status": "PASS",
+      "detail": "301 http://127.0.0.1:8080/journal/"
+    },
+    {
+      "area": "redirects",
+      "check": "archive pattern /category/news/page/2/ \u2192 301 journal/approach",
+      "status": "PASS",
+      "detail": "301 http://127.0.0.1:8080/journal/"
+    },
+    {
+      "area": "redirects",
+      "check": "archive pattern /tag/holistic/ \u2192 301 journal/approach",
+      "status": "PASS",
+      "detail": "301 http://127.0.0.1:8080/journal/"
+    },
+    {
+      "area": "redirects",
+      "check": "archive pattern /2021/08/ \u2192 301 journal/approach",
+      "status": "PASS",
+      "detail": "301 http://127.0.0.1:8080/journal/"
+    },
+    {
+      "area": "404",
+      "check": "/no-such-page/ returns real 404 with branded page",
+      "status": "PASS",
+      "detail": "404"
+    },
+    {
+      "area": "404",
+      "check": "/care/no-such-treatment/ returns real 404 with branded page",
+      "status": "PASS",
+      "detail": "404"
+    },
+    {
+      "area": "404",
+      "check": "/journal/no-such-article/ returns real 404 with branded page",
+      "status": "PASS",
+      "detail": "404"
+    },
+    {
+      "area": "404",
+      "check": "/services/ returns real 404 with branded page",
+      "status": "PASS",
+      "detail": "404"
+    },
+    {
+      "area": "admin",
+      "check": "/website-editor/ requires login",
+      "status": "PASS",
+      "detail": "302"
+    },
+    {
+      "area": "seo",
+      "check": "sitemap hidden (404) in staging mode",
+      "status": "PASS",
+      "detail": "404"
+    },
+    {
+      "area": "gating",
+      "check": "launch: unapproved /care/massage/ returns 404",
+      "status": "PASS",
+      "detail": "404"
+    },
+    {
+      "area": "gating",
+      "check": "launch: unapproved /care/dermal-fillers/ returns 404",
+      "status": "PASS",
+      "detail": "404"
+    },
+    {
+      "area": "gating",
+      "check": "launch: unapproved /care/pain-management/ returns 404",
+      "status": "PASS",
+      "detail": "404"
+    },
+    {
+      "area": "gating",
+      "check": "launch: unapproved /care/sleep-apnea/ returns 404",
+      "status": "PASS",
+      "detail": "404"
+    },
+    {
+      "area": "gating",
+      "check": "launch: no page links an unapproved optional service",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "area": "gating",
+      "check": "launch: additional-care hub hides optional block when none approved",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "seo",
+      "check": "launch: sitemap returns 200 XML",
+      "status": "PASS",
+      "detail": "200"
+    },
+    {
+      "area": "seo",
+      "check": "launch: sitemap excludes optional services and journal",
+      "status": "PASS",
+      "detail": "['/', '/care/exams/', '/care/emergency/', '/care/oral-screening/', '/care/pediatric/', '/care/fillings/', '/care/crowns/', '/care/dentures/', '/care/periodontal/', '/care/root-canals/', '/care/implants/', '/care/all-on-4/', '/care/oral-surgery/', '/care/extractions/', '/care/aligners/', '/care/whitening/', '/care/veneers/', '/care/sedation/', '/care/smart/', '/care/ozone/', '/care/remineralization/', '/care/nutrition/', '/care/membership/', '/care/team/', '/care/patient-stories/', '/care/payment/', '/care/appointments/', '/care/privacy/', '/care/', '/care/approach/', '/care/contact/', '/care/t"
+    },
+    {
+      "area": "seo",
+      "check": "launch: sitemap excludes retired acupuncture/updates",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "seo",
+      "check": "launch: all 33 sitemap URLs return 200",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "area": "seo",
+      "check": "launch: robots.txt lists theme sitemap",
+      "status": "PASS",
+      "detail": "User-agent: *\nDisallow: /wp-admin/\nAllow: /wp-admin/admin-ajax.php\n\nSitemap: http://127.0.0.1:8080/raina-sitemap.xml\n"
+    },
+    {
+      "area": "seo",
+      "check": "core wp-sitemap disabled (single truthful sitemap)",
+      "status": "PASS",
+      "detail": "404"
+    },
+    {
+      "area": "seo",
+      "check": "launch: canonical present on home",
+      "status": "PASS",
+      "detail": "<link href=\"http://127.0.0.1:8080/\" rel=\"canonical\"/>"
+    },
+    {
+      "area": "seo",
+      "check": "launch: noindex removed",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "seo",
+      "check": "launch: canonical on /care/implants/ is self-referencing",
+      "status": "PASS",
+      "detail": "<link href=\"http://127.0.0.1:8080/care/implants/\" rel=\"canonical\"/>"
+    },
+    {
+      "area": "journal",
+      "check": "launch: unapproved journal returns 404",
+      "status": "PASS",
+      "detail": "404"
+    },
+    {
+      "area": "journal",
+      "check": "launch: journal links removed from home",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "redirects",
+      "check": "launch: archive redirect falls back to /care/approach/ while journal hidden",
+      "status": "PASS",
+      "detail": "http://127.0.0.1:8080/care/approach/"
+    },
+    {
+      "area": "reviews",
+      "check": "launch: review excerpts hidden until approved",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "reviews",
+      "check": "launch: homepage review excerpts hidden until approved",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "journal",
+      "check": "launch: approved journal returns 200 without staging note",
+      "status": "PASS",
+      "detail": "200"
+    },
+    {
+      "area": "seo",
+      "check": "launch: approved journal + massage appear in sitemap",
+      "status": "PASS",
+      "detail": "['/journal/questions-about-dental-ozone/', '/journal/a-calmer-first-visit/', '/journal/what-a-preventive-visit-is-for/', '/care/', '/care/approach/', '/care/contact/', '/care/technology/', '/care/additional/']"
+    },
+    {
+      "area": "gating",
+      "check": "launch: approved massage page returns 200",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "gating",
+      "check": "launch: approved massage appears on hub; others still hidden",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "reviews",
+      "check": "launch: approved reviews visible without staging note",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "editor",
+      "check": "override replaces H1, lead and intro on /care/implants/",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "editor",
+      "check": "override keeps rest of treatment page (FAQ, comparison)",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "editor",
+      "check": "expired service window returns 404",
+      "status": "PASS",
+      "detail": "404"
+    },
+    {
+      "area": "editor",
+      "check": "expired service removed from directory",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "editor",
+      "check": "future start date hides service (404)",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "editor",
+      "check": "\"Hide this service\" returns 404",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "editor",
+      "check": "new editor-created listing appears in directory",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "editor",
+      "check": "new editor-created listing page renders 200",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "editor",
+      "check": "featured listing appears on homepage",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "editor",
+      "check": "implants restored after override removed",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "assistant",
+      "check": "endpoint returns 503 when no server key configured (default)",
+      "status": "PASS",
+      "detail": "503"
+    },
+    {
+      "area": "assistant",
+      "check": "cross-origin request rejected (403)",
+      "status": "PASS",
+      "detail": "403"
+    },
+    {
+      "area": "assistant",
+      "check": "unapproved optional topic refused (404)",
+      "status": "PASS",
+      "detail": "404"
+    },
+    {
+      "area": "assistant",
+      "check": "free-text fields rejected (400)",
+      "status": "PASS",
+      "detail": "400"
+    },
+    {
+      "area": "assistant",
+      "check": "approved topic answered",
+      "status": "PASS",
+      "detail": "{\"answer\":\"QA STUB REWRITE\"}"
+    },
+    {
+      "area": "assistant",
+      "check": "provider receives approved public facts only (no visitor text)",
+      "status": "PASS",
+      "detail": "{\"model\":\"qa-stub-model\",\"instructions\":\"Write a short, plain-language answer for a dental practice website. Only restate the provided public practice facts. Ke"
+    },
+    {
+      "area": "privacy",
+      "check": "public pages set no cookies",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "area": "security",
+      "check": "no API keys / private keys committed in theme",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "area": "responsive",
+      "check": "no horizontal overflow / console errors / failed assets across route \u00d7 viewport matrix",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "area": "a11y",
+      "check": "200% zoom (640 CSS px) reflows without horizontal scroll",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "area": "menu",
+      "check": "mobile header shows primary Schedule action",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "menu",
+      "check": "menu opens: aria-expanded=true and body scroll locked",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "menu",
+      "check": "focus moves into the menu",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "menu",
+      "check": "Tab focus stays trapped in menu/button",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "menu",
+      "check": "drawer offers call and schedule actions",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "menu",
+      "check": "Escape closes menu and returns focus to button",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "a11y",
+      "check": "first Tab reaches visible skip link",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "a11y",
+      "check": "skip link moves focus to main",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "a11y",
+      "check": "keyboard focus indicator visible",
+      "status": "PASS",
+      "detail": "solid"
+    },
+    {
+      "area": "search",
+      "check": "11 spec queries return the expected treatment",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "area": "search",
+      "check": "\"sleep\" returns no unapproved sleep-apnea listing (gated by design)",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "search",
+      "check": "no-results shows empty state with suggestions + live status",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "search",
+      "check": "empty-state suggestion chip re-runs search",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "search",
+      "check": "Escape clears search and restores full list",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "search",
+      "check": "homepage search deep link /care/?q=kids filters directory",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "faq",
+      "check": "FAQ opens with keyboard (Enter on summary)",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "faq",
+      "check": "FAQ closes with keyboard",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "content",
+      "check": "/care/implants/ has 4+ substantive FAQs",
+      "status": "PASS",
+      "detail": "5"
+    },
+    {
+      "area": "assistant",
+      "check": "launcher does not overlap header Schedule action",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "assistant",
+      "check": "dialog opens modal with focus inside",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "assistant",
+      "check": "hours question answered from approved facts",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "assistant",
+      "check": "urgent symptoms redirected to phone/911, no advice",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "assistant",
+      "check": "personal details are not echoed back",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "assistant",
+      "check": "visible human handoff in dialog",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "assistant",
+      "check": "Escape closes dialog and returns focus to launcher",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "booking",
+      "check": "no scheduler configured \u2192 honest \"Call to schedule\" with tel link",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "booking",
+      "check": "no page claims \"Book online\" while unconfigured",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "a11y",
+      "check": "prefers-reduced-motion: no running animations",
+      "status": "PASS",
+      "detail": "0"
+    },
+    {
+      "area": "a11y",
+      "check": "interactive targets \u226524\u00d724 CSS px on mobile (WCAG 2.5.8)",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "area": "a11y",
+      "check": "axe-core: zero serious/critical violations on key templates (390 + 1440)",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "area": "performance",
+      "check": "lab metrics (local PHP server, mobile viewport)",
+      "status": "PASS",
+      "detail": "[{\"route\": \"/\", \"lcp\": 952, \"cls\": 0, \"bytes\": 284304, \"requests\": 8, \"thirdParty\": []}, {\"route\": \"/care/\", \"lcp\": 688, \"cls\": 0, \"bytes\": 221508, \"requests\": 6, \"thirdParty\": []}, {\"route\": \"/care/implants/\", \"lcp\": 548, \"cls\": 0, \"bytes\": 219237, \"requests\": 6, \"thirdParty\": []}, {\"route\": \"/care/appointments/\", \"lcp\": 612, \"cls\": 0, \"bytes\": 210239, \"requests\": 6, \"thirdParty\": []}, {\"route\": \"/journal/\", \"lcp\": 544, \"cls\": 0, \"bytes\": 328978, \"requests\": 9, \"thirdParty\": []}]"
+    },
+    {
+      "area": "privacy",
+      "check": "no third-party requests (analytics/trackers/fonts) on key pages",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "admin",
+      "check": "Raina Website settings screen loads for administrator",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "admin",
+      "check": "optional-service approvals save from admin form",
+      "status": "PASS",
+      "detail": "['massage', 'sleep-apnea']"
+    },
+    {
+      "area": "admin",
+      "check": "clearing every optional-service checkbox persists (empty list)",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "area": "booking",
+      "check": "non-PatientViewer URL rejected with an error",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "booking",
+      "check": "PatientViewer HTTPS URL accepted and saved",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "booking",
+      "check": "configured: online scheduling button primary, opens new tab safely @390",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "booking",
+      "check": "configured: online scheduling button primary, opens new tab safely @1440",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "area": "booking",
+      "check": "configured scheduling URL responds (GET only, nothing submitted)",
+      "status": "PASS",
+      "detail": "302"
+    }
+  ]
+}

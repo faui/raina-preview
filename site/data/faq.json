@@ -1,0 +1,17 @@
+{
+  "appointments": ["Appointments are scheduled by phone during office hours at (630) 381-4021. The appointment page explains what a first visit involves and what to bring.", ["Schedule a visit", "/care/appointments/"]],
+  "reschedule": ["To change or cancel an appointment, please call the office during business hours at (630) 381-4021.", ["Call (630) 381-4021", "tel:+16303814021"]],
+  "smart": ["SMART (Safe Mercury Amalgam Removal Technique) is a protocol of precautions used when an amalgam filling is removed. Whether a filling should be replaced is a clinical decision first: the FDA does not recommend removing intact amalgam fillings unless a clinician considers it necessary.", ["Understand SMART", "/care/smart/"]],
+  "ozone": ["Dental ozone is used as an optional adjunct in selected treatments. It does not replace cleaning, fillings or other care a tooth needs, and the evidence for some uses is still developing.", ["How ozone is used", "/care/ozone/"]],
+  "massage": ["Therapeutic massage details, including availability, are on the service page.", ["Therapeutic massage", "/care/massage/"]],
+  "membership": ["Raina offers two in-house plans: a Standard Adult Plan ($62.50 a month or $750 a year) and a Child Wellness Plan for children 12 and under ($43.33 a month or $520 a year). They cover routine preventive care and are not insurance; current terms are confirmed at enrollment.", ["Compare membership plans", "/care/membership/"]],
+  "approach": ["Raina’s whole-person approach considers your health history, preferences and the materials used in your mouth, alongside a thorough dental exam and evidence-based treatment.", ["Our approach", "/care/approach/"]],
+  "payment": ["Coverage depends on your plan. The insurance and payment page explains in- and out-of-network benefits, estimates and payment options. For your specific plan, please call the office.", ["Insurance and payment", "/care/payment/"]],
+  "hours": ["Office hours are Monday noon to 6 pm; Tuesday, Thursday and Friday 9 am to 5 pm; closed Wednesday. Holiday hours may differ, so please call to confirm.", ["Hours and directions", "/care/contact/"]],
+  "location": ["The practice is at 2323 Naperville Road, Suite 110, Naperville, IL 60563.", ["Get directions", "https://www.google.com/maps/search/?api=1&query=2323+Naperville+Road+Suite+110+Naperville+IL+60563"]],
+  "technology": ["Photographs, X-rays and digital models are used to show you what the dentist sees and to plan care. Only the images your care needs are taken.", ["Imaging and technology", "/care/technology/"]],
+  "services": ["The treatment directory lists every service with a plain-language explanation and a search for everyday terms like ‘cleaning’ or ‘implant’.", ["Find a treatment", "/care/"]],
+  "team": ["Dr. Mandeep Raina, DDS, leads the practice alongside Dr. Prameela B. To speak with the team, call (630) 381-4021.", ["Meet the dentists", "/care/team/"]],
+  "first-visit": ["A first visit starts with a conversation about your history and goals, followed by a thorough exam. Tell the team if you feel anxious; it helps them plan your visit.", ["Plan your first visit", "/care/appointments/"]],
+  "reviews": ["You can read patient reviews on the patient stories page and in full on Google.", ["Patient stories", "/care/patient-stories/"]]
+}

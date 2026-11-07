@@ -1,0 +1,3 @@
+php -l (PHP 8.3.36): 61 files, 0 failures
+node --check site/script.js: OK
+Examined 46 static PHP templates; issues: 0

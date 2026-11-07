@@ -1,0 +1,458 @@
+  ok [routes] / returns 200
+  ok [routes] / has exactly one H1
+  ok [seo] / staging is noindex
+  ok [seo] / title length 20–75
+  ok [seo] / meta description 70–170
+  ok [content] / has no draft/forbidden phrases
+  ok [links] / external link rel noopener → https://www.google.com/maps/search/?api=1&query=2323+Napervi
+  ok [links] / external link rel noopener → https://www.google.com/maps/search/?api=1&query=2323+Napervi
+  ok [links] / external link rel noopener → https://www.facebook.com/Raina-Dental-Care-1453073548128969
+  ok [routes] /care/exams/ returns 200
+  ok [routes] /care/exams/ has exactly one H1
+  ok [seo] /care/exams/ staging is noindex
+  ok [seo] /care/exams/ title length 20–75
+  ok [seo] /care/exams/ meta description 70–170
+  ok [content] /care/exams/ has no draft/forbidden phrases
+  ok [links] /care/exams/ external link rel noopener → https://www.mouthhealthy.org/all-topics-a-z/x-rays
+  ok [links] /care/exams/ external link rel noopener → https://www.google.com/maps/search/?api=1&query=2323+Napervi
+  ok [links] /care/exams/ external link rel noopener → https://www.facebook.com/Raina-Dental-Care-1453073548128969
+  ok [routes] /care/emergency/ returns 200
+  ok [routes] /care/emergency/ has exactly one H1
+  ok [seo] /care/emergency/ staging is noindex
+  ok [seo] /care/emergency/ title length 20–75
+  ok [seo] /care/emergency/ meta description 70–170
+  ok [content] /care/emergency/ has no draft/forbidden phrases
+  ok [links] /care/emergency/ external link rel noopener → https://www.mouthhealthy.org/all-topics-a-z/dental-emergenci
+  ok [links] /care/emergency/ external link rel noopener → https://www.google.com/maps/search/?api=1&query=2323+Napervi
+  ok [links] /care/emergency/ external link rel noopener → https://www.facebook.com/Raina-Dental-Care-1453073548128969
+  ok [routes] /care/oral-screening/ returns 200
+  ok [routes] /care/oral-screening/ has exactly one H1
+  ok [seo] /care/oral-screening/ staging is noindex
+  ok [seo] /care/oral-screening/ title length 20–75
+  ok [seo] /care/oral-screening/ meta description 70–170
+  ok [content] /care/oral-screening/ has no draft/forbidden phrases
+  ok [links] /care/oral-screening/ external link rel noopener → https://www.nidcr.nih.gov/health-info/oral-cancer
+  ok [links] /care/oral-screening/ external link rel noopener → https://www.cancer.gov/types/head-and-neck/patient/oral-scre
+  ok [links] /care/oral-screening/ external link rel noopener → https://www.google.com/maps/search/?api=1&query=2323+Napervi
+  ok [links] /care/oral-screening/ external link rel noopener → https://www.facebook.com/Raina-Dental-Care-1453073548128969
+  ok [routes] /care/pediatric/ returns 200
+  ok [routes] /care/pediatric/ has exactly one H1
+  ok [seo] /care/pediatric/ staging is noindex
+  ok [seo] /care/pediatric/ title length 20–75
+  ok [seo] /care/pediatric/ meta description 70–170
+  ok [content] /care/pediatric/ has no draft/forbidden phrases
+  ok [links] /care/pediatric/ external link rel noopener → https://www.aapd.org/resources/parent/faq/
+  ok [links] /care/pediatric/ external link rel noopener → https://www.google.com/maps/search/?api=1&query=2323+Napervi
+  ok [links] /care/pediatric/ external link rel noopener → https://www.facebook.com/Raina-Dental-Care-1453073548128969
+  ok [routes] /care/fillings/ returns 200
+  ok [routes] /care/fillings/ has exactly one H1
+  ok [seo] /care/fillings/ staging is noindex
+  ok [seo] /care/fillings/ title length 20–75
+  ok [seo] /care/fillings/ meta description 70–170
+  ok [content] /care/fillings/ has no draft/forbidden phrases
+  ok [links] /care/fillings/ external link rel noopener → https://www.nidcr.nih.gov/health-info/tooth-decay
+  ok [links] /care/fillings/ external link rel noopener → https://www.fda.gov/medical-devices/dental-amalgam-fillings/
+  ok [links] /care/fillings/ external link rel noopener → https://www.google.com/maps/search/?api=1&query=2323+Napervi
+  ok [links] /care/fillings/ external link rel noopener → https://www.facebook.com/Raina-Dental-Care-1453073548128969
+  ok [routes] /care/crowns/ returns 200
+  ok [routes] /care/crowns/ has exactly one H1
+  ok [seo] /care/crowns/ staging is noindex
+  ok [seo] /care/crowns/ title length 20–75
+  ok [seo] /care/crowns/ meta description 70–170
+  ok [content] /care/crowns/ has no draft/forbidden phrases
+  ok [links] /care/crowns/ external link rel noopener → https://www.mouthhealthy.org/all-topics-a-z/crowns
+  ok [links] /care/crowns/ external link rel noopener → https://www.mouthhealthy.org/all-topics-a-z/bridges
+  ok [links] /care/crowns/ external link rel noopener → https://www.google.com/maps/search/?api=1&query=2323+Napervi
+  ok [links] /care/crowns/ external link rel noopener → https://www.facebook.com/Raina-Dental-Care-1453073548128969
+  ok [routes] /care/dentures/ returns 200
+  ok [routes] /care/dentures/ has exactly one H1
+  ok [seo] /care/dentures/ staging is noindex
+  ok [seo] /care/dentures/ title length 20–75
+  ok [seo] /care/dentures/ meta description 70–170
+  ok [content] /care/dentures/ has no draft/forbidden phrases
+  ok [links] /care/dentures/ external link rel noopener → https://www.mouthhealthy.org/all-topics-a-z/dentures
+  ok [links] /care/dentures/ external link rel noopener → https://www.google.com/maps/search/?api=1&query=2323+Napervi
+  ok [links] /care/dentures/ external link rel noopener → https://www.facebook.com/Raina-Dental-Care-1453073548128969
+  ok [routes] /care/periodontal/ returns 200
+  ok [routes] /care/periodontal/ has exactly one H1
+  ok [seo] /care/periodontal/ staging is noindex
+  ok [seo] /care/periodontal/ title length 20–75
+  ok [seo] /care/periodontal/ meta description 70–170
+  ok [content] /care/periodontal/ has no draft/forbidden phrases
+  ok [links] /care/periodontal/ external link rel noopener → https://www.nidcr.nih.gov/health-info/gum-disease
+  ok [links] /care/periodontal/ external link rel noopener → https://www.mouthhealthy.org/all-topics-a-z/gum-disease
+  ok [links] /care/periodontal/ external link rel noopener → https://www.google.com/maps/search/?api=1&query=2323+Napervi
+  ok [links] /care/periodontal/ external link rel noopener → https://www.facebook.com/Raina-Dental-Care-1453073548128969
+  ok [routes] /care/root-canals/ returns 200
+  ok [routes] /care/root-canals/ has exactly one H1
+  ok [seo] /care/root-canals/ staging is noindex
+  ok [seo] /care/root-canals/ title length 20–75
+  ok [seo] /care/root-canals/ meta description 70–170
+  ok [content] /care/root-canals/ has no draft/forbidden phrases
+  ok [links] /care/root-canals/ external link rel noopener → https://www.mouthhealthy.org/all-topics-a-z/root-canals
+  ok [links] /care/root-canals/ external link rel noopener → https://www.google.com/maps/search/?api=1&query=2323+Napervi
+  ok [links] /care/root-canals/ external link rel noopener → https://www.facebook.com/Raina-Dental-Care-1453073548128969
+  ok [routes] /care/implants/ returns 200
+  ok [routes] /care/implants/ has exactly one H1
+  ok [seo] /care/implants/ staging is noindex
+  ok [seo] /care/implants/ title length 20–75
+  ok [seo] /care/implants/ meta description 70–170
+  ok [content] /care/implants/ has no draft/forbidden phrases
+  ok [links] /care/implants/ external link rel noopener → https://www.fda.gov/medical-devices/dental-devices/dental-im
+  ok [links] /care/implants/ external link rel noopener → https://www.mouthhealthy.org/all-topics-a-z/implants
+  ok [links] /care/implants/ external link rel noopener → https://www.google.com/maps/search/?api=1&query=2323+Napervi
+  ok [links] /care/implants/ external link rel noopener → https://www.facebook.com/Raina-Dental-Care-1453073548128969
+  ok [routes] /care/all-on-4/ returns 200
+  ok [routes] /care/all-on-4/ has exactly one H1
+  ok [seo] /care/all-on-4/ staging is noindex
+  ok [seo] /care/all-on-4/ title length 20–75
+  ok [seo] /care/all-on-4/ meta description 70–170
+  ok [content] /care/all-on-4/ has no draft/forbidden phrases
+  ok [links] /care/all-on-4/ external link rel noopener → https://www.fda.gov/medical-devices/dental-devices/dental-im
+  ok [links] /care/all-on-4/ external link rel noopener → https://www.mouthhealthy.org/all-topics-a-z/dentures
+  ok [links] /care/all-on-4/ external link rel noopener → https://www.google.com/maps/search/?api=1&query=2323+Napervi
+  ok [links] /care/all-on-4/ external link rel noopener → https://www.facebook.com/Raina-Dental-Care-1453073548128969
+  ok [routes] /care/oral-surgery/ returns 200
+  ok [routes] /care/oral-surgery/ has exactly one H1
+  ok [seo] /care/oral-surgery/ staging is noindex
+  ok [seo] /care/oral-surgery/ title length 20–75
+  ok [seo] /care/oral-surgery/ meta description 70–170
+  ok [content] /care/oral-surgery/ has no draft/forbidden phrases
+  ok [links] /care/oral-surgery/ external link rel noopener → https://www.mouthhealthy.org/all-topics-a-z/extractions
+  ok [links] /care/oral-surgery/ external link rel noopener → https://www.mouthhealthy.org/all-topics-a-z/wisdom-teeth
+  ok [links] /care/oral-surgery/ external link rel noopener → https://www.google.com/maps/search/?api=1&query=2323+Napervi
+  ok [links] /care/oral-surgery/ external link rel noopener → https://www.facebook.com/Raina-Dental-Care-1453073548128969
+  ok [routes] /care/extractions/ returns 200
+  ok [routes] /care/extractions/ has exactly one H1
+  ok [seo] /care/extractions/ staging is noindex
+  ok [seo] /care/extractions/ title length 20–75
+  ok [seo] /care/extractions/ meta description 70–170
+  ok [content] /care/extractions/ has no draft/forbidden phrases
+  ok [links] /care/extractions/ external link rel noopener → https://www.mouthhealthy.org/all-topics-a-z/extractions
+  ok [links] /care/extractions/ external link rel noopener → https://www.mouthhealthy.org/all-topics-a-z/dry-socket
+  ok [links] /care/extractions/ external link rel noopener → https://www.google.com/maps/search/?api=1&query=2323+Napervi
+  ok [links] /care/extractions/ external link rel noopener → https://www.facebook.com/Raina-Dental-Care-1453073548128969
+  ok [routes] /care/aligners/ returns 200
+  ok [routes] /care/aligners/ has exactly one H1
+  ok [seo] /care/aligners/ staging is noindex
+  ok [seo] /care/aligners/ title length 20–75
+  ok [seo] /care/aligners/ meta description 70–170
+  ok [content] /care/aligners/ has no draft/forbidden phrases
+  ok [links] /care/aligners/ external link rel noopener → https://www.mouthhealthy.org/all-topics-a-z/braces
+  ok [links] /care/aligners/ external link rel noopener → https://www.mouthhealthy.org/all-topics-a-z/orthodontics
+  ok [links] /care/aligners/ external link rel noopener → https://www.google.com/maps/search/?api=1&query=2323+Napervi
+  ok [links] /care/aligners/ external link rel noopener → https://www.facebook.com/Raina-Dental-Care-1453073548128969
+  ok [routes] /care/whitening/ returns 200
+  ok [routes] /care/whitening/ has exactly one H1
+  ok [seo] /care/whitening/ staging is noindex
+  ok [seo] /care/whitening/ title length 20–75
+  ok [seo] /care/whitening/ meta description 70–170
+  ok [content] /care/whitening/ has no draft/forbidden phrases
+  ok [links] /care/whitening/ external link rel noopener → https://www.mouthhealthy.org/all-topics-a-z/teeth-whitening
+  ok [links] /care/whitening/ external link rel noopener → https://www.google.com/maps/search/?api=1&query=2323+Napervi
+  ok [links] /care/whitening/ external link rel noopener → https://www.facebook.com/Raina-Dental-Care-1453073548128969
+  ok [routes] /care/veneers/ returns 200
+  ok [routes] /care/veneers/ has exactly one H1
+  ok [seo] /care/veneers/ staging is noindex
+  ok [seo] /care/veneers/ title length 20–75
+  ok [seo] /care/veneers/ meta description 70–170
+  ok [content] /care/veneers/ has no draft/forbidden phrases
+  ok [links] /care/veneers/ external link rel noopener → https://www.mouthhealthy.org/all-topics-a-z/veneers
+  ok [links] /care/veneers/ external link rel noopener → https://www.google.com/maps/search/?api=1&query=2323+Napervi
+  ok [links] /care/veneers/ external link rel noopener → https://www.facebook.com/Raina-Dental-Care-1453073548128969
+  ok [routes] /care/sedation/ returns 200
+  ok [routes] /care/sedation/ has exactly one H1
+  ok [seo] /care/sedation/ staging is noindex
+  ok [seo] /care/sedation/ title length 20–75
+  ok [seo] /care/sedation/ meta description 70–170
+  ok [content] /care/sedation/ has no draft/forbidden phrases
+  ok [links] /care/sedation/ external link rel noopener → https://www.mouthhealthy.org/all-topics-a-z/anesthesia-and-s
+  ok [links] /care/sedation/ external link rel noopener → https://www.google.com/maps/search/?api=1&query=2323+Napervi
+  ok [links] /care/sedation/ external link rel noopener → https://www.facebook.com/Raina-Dental-Care-1453073548128969
+  ok [routes] /care/pain-management/ reachable on staging for review
+  ok [routes] /care/sleep-apnea/ reachable on staging for review
+  ok [routes] /care/dermal-fillers/ reachable on staging for review
+  ok [routes] /care/smart/ returns 200
+  ok [routes] /care/smart/ has exactly one H1
+  ok [seo] /care/smart/ staging is noindex
+  ok [seo] /care/smart/ title length 20–75
+  ok [seo] /care/smart/ meta description 70–170
+  ok [content] /care/smart/ has no draft/forbidden phrases
+  ok [links] /care/smart/ external link rel noopener → https://www.fda.gov/medical-devices/dental-devices/dental-am
+  ok [links] /care/smart/ external link rel noopener → https://www.fda.gov/news-events/press-announcements/fda-issu
+  ok [links] /care/smart/ external link rel noopener → https://www.google.com/maps/search/?api=1&query=2323+Napervi
+  ok [links] /care/smart/ external link rel noopener → https://www.facebook.com/Raina-Dental-Care-1453073548128969
+  ok [routes] /care/ozone/ returns 200
+  ok [routes] /care/ozone/ has exactly one H1
+  ok [seo] /care/ozone/ staging is noindex
+  ok [seo] /care/ozone/ title length 20–75
+  ok [seo] /care/ozone/ meta description 70–170
+  ok [content] /care/ozone/ has no draft/forbidden phrases
+  ok [links] /care/ozone/ external link rel noopener → https://www.google.com/maps/search/?api=1&query=2323+Napervi
+  ok [links] /care/ozone/ external link rel noopener → https://www.facebook.com/Raina-Dental-Care-1453073548128969
+  ok [routes] /care/massage/ reachable on staging for review
+  ok [routes] /care/remineralization/ returns 200
+  ok [routes] /care/remineralization/ has exactly one H1
+  ok [seo] /care/remineralization/ staging is noindex
+  ok [seo] /care/remineralization/ title length 20–75
+  ok [seo] /care/remineralization/ meta description 70–170
+  ok [content] /care/remineralization/ has no draft/forbidden phrases
+  ok [links] /care/remineralization/ external link rel noopener → https://www.nidcr.nih.gov/health-info/tooth-decay
+  ok [links] /care/remineralization/ external link rel noopener → https://www.google.com/maps/search/?api=1&query=2323+Napervi
+  ok [links] /care/remineralization/ external link rel noopener → https://www.facebook.com/Raina-Dental-Care-1453073548128969
+  ok [routes] /care/nutrition/ returns 200
+  ok [routes] /care/nutrition/ has exactly one H1
+  ok [seo] /care/nutrition/ staging is noindex
+  ok [seo] /care/nutrition/ title length 20–75
+  ok [seo] /care/nutrition/ meta description 70–170
+  ok [content] /care/nutrition/ has no draft/forbidden phrases
+  ok [links] /care/nutrition/ external link rel noopener → https://www.mouthhealthy.org/all-topics-a-z/diet-and-dental-
+  ok [links] /care/nutrition/ external link rel noopener → https://www.google.com/maps/search/?api=1&query=2323+Napervi
+  ok [links] /care/nutrition/ external link rel noopener → https://www.facebook.com/Raina-Dental-Care-1453073548128969
+  ok [routes] /care/membership/ returns 200
+  ok [routes] /care/membership/ has exactly one H1
+  ok [seo] /care/membership/ staging is noindex
+  ok [seo] /care/membership/ title length 20–75
+  ok [seo] /care/membership/ meta description 70–170
+  ok [content] /care/membership/ has no draft/forbidden phrases
+  ok [links] /care/membership/ external link rel noopener → https://www.google.com/maps/search/?api=1&query=2323+Napervi
+  ok [links] /care/membership/ external link rel noopener → https://www.facebook.com/Raina-Dental-Care-1453073548128969
+  ok [routes] /care/team/ returns 200
+  ok [routes] /care/team/ has exactly one H1
+  ok [seo] /care/team/ staging is noindex
+  ok [seo] /care/team/ title length 20–75
+  ok [seo] /care/team/ meta description 70–170
+  ok [content] /care/team/ has no draft/forbidden phrases
+  ok [links] /care/team/ external link rel noopener → https://www.google.com/maps/search/?api=1&query=2323+Napervi
+  ok [links] /care/team/ external link rel noopener → https://www.facebook.com/Raina-Dental-Care-1453073548128969
+  ok [routes] /care/patient-stories/ returns 200
+  ok [routes] /care/patient-stories/ has exactly one H1
+  ok [seo] /care/patient-stories/ staging is noindex
+  ok [seo] /care/patient-stories/ title length 20–75
+  ok [seo] /care/patient-stories/ meta description 70–170
+  ok [content] /care/patient-stories/ has no draft/forbidden phrases
+  ok [links] /care/patient-stories/ external link rel noopener → https://www.google.com/maps/search/?api=1&query=Raina+Dental
+  ok [links] /care/patient-stories/ external link rel noopener → https://www.google.com/maps/search/?api=1&query=2323+Napervi
+  ok [links] /care/patient-stories/ external link rel noopener → https://www.facebook.com/Raina-Dental-Care-1453073548128969
+  ok [routes] /care/payment/ returns 200
+  ok [routes] /care/payment/ has exactly one H1
+  ok [seo] /care/payment/ staging is noindex
+  ok [seo] /care/payment/ title length 20–75
+  ok [seo] /care/payment/ meta description 70–170
+  ok [content] /care/payment/ has no draft/forbidden phrases
+  ok [links] /care/payment/ external link rel noopener → https://www.google.com/maps/search/?api=1&query=2323+Napervi
+  ok [links] /care/payment/ external link rel noopener → https://www.facebook.com/Raina-Dental-Care-1453073548128969
+  ok [routes] /care/appointments/ returns 200
+  ok [routes] /care/appointments/ has exactly one H1
+  ok [seo] /care/appointments/ staging is noindex
+  ok [seo] /care/appointments/ title length 20–75
+  ok [seo] /care/appointments/ meta description 70–170
+  ok [content] /care/appointments/ has no draft/forbidden phrases
+  ok [links] /care/appointments/ external link rel noopener → https://www.google.com/maps/search/?api=1&query=2323+Napervi
+  ok [links] /care/appointments/ external link rel noopener → https://www.facebook.com/Raina-Dental-Care-1453073548128969
+  ok [routes] /care/privacy/ returns 200
+  ok [routes] /care/privacy/ has exactly one H1
+  ok [seo] /care/privacy/ staging is noindex
+  ok [seo] /care/privacy/ title length 20–75
+  ok [seo] /care/privacy/ meta description 70–170
+  ok [content] /care/privacy/ has no draft/forbidden phrases
+  ok [links] /care/privacy/ external link rel noopener → https://www.google.com/maps/search/?api=1&query=2323+Napervi
+  ok [links] /care/privacy/ external link rel noopener → https://www.facebook.com/Raina-Dental-Care-1453073548128969
+  ok [routes] /journal/ returns 200
+  ok [routes] /journal/ has exactly one H1
+  ok [seo] /journal/ staging is noindex
+  ok [seo] /journal/ title length 20–75
+  ok [seo] /journal/ meta description 70–170
+  ok [content] /journal/ has no draft/forbidden phrases
+  ok [links] /journal/ external link rel noopener → https://www.google.com/maps/search/?api=1&query=2323+Napervi
+  ok [links] /journal/ external link rel noopener → https://www.facebook.com/Raina-Dental-Care-1453073548128969
+  ok [routes] /journal/what-biological-dentistry-means/ returns 200
+  ok [routes] /journal/what-biological-dentistry-means/ has exactly one H1
+  ok [seo] /journal/what-biological-dentistry-means/ staging is noindex
+  ok [seo] /journal/what-biological-dentistry-means/ title length 20–75
+  ok [seo] /journal/what-biological-dentistry-means/ meta description 70–170
+  ok [content] /journal/what-biological-dentistry-means/ has no draft/forbidden phrases
+  ok [links] /journal/what-biological-dentistry-means/ external link rel noopener → https://www.google.com/maps/search/?api=1&query=2323+Napervi
+  ok [links] /journal/what-biological-dentistry-means/ external link rel noopener → https://www.facebook.com/Raina-Dental-Care-1453073548128969
+  ok [routes] /journal/silver-fillings-and-smart/ returns 200
+  ok [routes] /journal/silver-fillings-and-smart/ has exactly one H1
+  ok [seo] /journal/silver-fillings-and-smart/ staging is noindex
+  ok [seo] /journal/silver-fillings-and-smart/ title length 20–75
+  ok [seo] /journal/silver-fillings-and-smart/ meta description 70–170
+  ok [content] /journal/silver-fillings-and-smart/ has no draft/forbidden phrases
+  ok [links] /journal/silver-fillings-and-smart/ external link rel noopener → https://www.google.com/maps/search/?api=1&query=2323+Napervi
+  ok [links] /journal/silver-fillings-and-smart/ external link rel noopener → https://www.facebook.com/Raina-Dental-Care-1453073548128969
+  ok [routes] /journal/what-dental-images-can-show/ returns 200
+  ok [routes] /journal/what-dental-images-can-show/ has exactly one H1
+  ok [seo] /journal/what-dental-images-can-show/ staging is noindex
+  ok [seo] /journal/what-dental-images-can-show/ title length 20–75
+  ok [seo] /journal/what-dental-images-can-show/ meta description 70–170
+  ok [content] /journal/what-dental-images-can-show/ has no draft/forbidden phrases
+  ok [links] /journal/what-dental-images-can-show/ external link rel noopener → https://www.google.com/maps/search/?api=1&query=2323+Napervi
+  ok [links] /journal/what-dental-images-can-show/ external link rel noopener → https://www.facebook.com/Raina-Dental-Care-1453073548128969
+  ok [routes] /journal/questions-about-dental-ozone/ returns 200
+  ok [routes] /journal/questions-about-dental-ozone/ has exactly one H1
+  ok [seo] /journal/questions-about-dental-ozone/ staging is noindex
+  ok [seo] /journal/questions-about-dental-ozone/ title length 20–75
+  ok [seo] /journal/questions-about-dental-ozone/ meta description 70–170
+  ok [content] /journal/questions-about-dental-ozone/ has no draft/forbidden phrases
+  ok [links] /journal/questions-about-dental-ozone/ external link rel noopener → https://www.google.com/maps/search/?api=1&query=2323+Napervi
+  ok [links] /journal/questions-about-dental-ozone/ external link rel noopener → https://www.facebook.com/Raina-Dental-Care-1453073548128969
+  ok [routes] /journal/a-calmer-first-visit/ returns 200
+  ok [routes] /journal/a-calmer-first-visit/ has exactly one H1
+  ok [seo] /journal/a-calmer-first-visit/ staging is noindex
+  ok [seo] /journal/a-calmer-first-visit/ title length 20–75
+  ok [seo] /journal/a-calmer-first-visit/ meta description 70–170
+  ok [content] /journal/a-calmer-first-visit/ has no draft/forbidden phrases
+  ok [links] /journal/a-calmer-first-visit/ external link rel noopener → https://www.google.com/maps/search/?api=1&query=2323+Napervi
+  ok [links] /journal/a-calmer-first-visit/ external link rel noopener → https://www.facebook.com/Raina-Dental-Care-1453073548128969
+  ok [routes] /journal/what-a-preventive-visit-is-for/ returns 200
+  ok [routes] /journal/what-a-preventive-visit-is-for/ has exactly one H1
+  ok [seo] /journal/what-a-preventive-visit-is-for/ staging is noindex
+  ok [seo] /journal/what-a-preventive-visit-is-for/ title length 20–75
+  ok [seo] /journal/what-a-preventive-visit-is-for/ meta description 70–170
+  ok [content] /journal/what-a-preventive-visit-is-for/ has no draft/forbidden phrases
+  ok [links] /journal/what-a-preventive-visit-is-for/ external link rel noopener → https://www.google.com/maps/search/?api=1&query=2323+Napervi
+  ok [links] /journal/what-a-preventive-visit-is-for/ external link rel noopener → https://www.facebook.com/Raina-Dental-Care-1453073548128969
+  ok [routes] /care/ returns 200
+  ok [routes] /care/ has exactly one H1
+  ok [seo] /care/ staging is noindex
+  ok [seo] /care/ title length 20–75
+  ok [seo] /care/ meta description 70–170
+  ok [content] /care/ has no draft/forbidden phrases
+  ok [links] /care/ external link rel noopener → https://www.google.com/maps/search/?api=1&query=2323+Napervi
+  ok [links] /care/ external link rel noopener → https://www.facebook.com/Raina-Dental-Care-1453073548128969
+  ok [routes] /care/approach/ returns 200
+  ok [routes] /care/approach/ has exactly one H1
+  ok [seo] /care/approach/ staging is noindex
+  ok [seo] /care/approach/ title length 20–75
+  ok [seo] /care/approach/ meta description 70–170
+  ok [content] /care/approach/ has no draft/forbidden phrases
+  ok [links] /care/approach/ external link rel noopener → https://www.google.com/maps/search/?api=1&query=2323+Napervi
+  ok [links] /care/approach/ external link rel noopener → https://www.facebook.com/Raina-Dental-Care-1453073548128969
+  ok [routes] /care/contact/ returns 200
+  ok [routes] /care/contact/ has exactly one H1
+  ok [seo] /care/contact/ staging is noindex
+  ok [seo] /care/contact/ title length 20–75
+  ok [seo] /care/contact/ meta description 70–170
+  ok [content] /care/contact/ has no draft/forbidden phrases
+  ok [links] /care/contact/ external link rel noopener → https://www.google.com/maps/search/?api=1&query=2323+Napervi
+  ok [links] /care/contact/ external link rel noopener → https://www.google.com/maps/search/?api=1&query=2323+Napervi
+  ok [links] /care/contact/ external link rel noopener → https://www.facebook.com/Raina-Dental-Care-1453073548128969
+  ok [routes] /care/technology/ returns 200
+  ok [routes] /care/technology/ has exactly one H1
+  ok [seo] /care/technology/ staging is noindex
+  ok [seo] /care/technology/ title length 20–75
+  ok [seo] /care/technology/ meta description 70–170
+  ok [content] /care/technology/ has no draft/forbidden phrases
+  ok [links] /care/technology/ external link rel noopener → https://www.google.com/maps/search/?api=1&query=2323+Napervi
+  ok [links] /care/technology/ external link rel noopener → https://www.facebook.com/Raina-Dental-Care-1453073548128969
+  ok [routes] /care/additional/ returns 200
+  ok [routes] /care/additional/ has exactly one H1
+  ok [seo] /care/additional/ staging is noindex
+  ok [seo] /care/additional/ title length 20–75
+  ok [seo] /care/additional/ meta description 70–170
+  ok [content] /care/additional/ has no draft/forbidden phrases
+  ok [links] /care/additional/ external link rel noopener → https://www.google.com/maps/search/?api=1&query=2323+Napervi
+  ok [links] /care/additional/ external link rel noopener → https://www.facebook.com/Raina-Dental-Care-1453073548128969
+  ok [seo] all page titles unique
+  ok [seo] all meta descriptions unique
+  ok [links] internal link graph: 40 unique URLs resolve 200 without redirects
+  ok [redirects] 72 legacy URLs (with/without trailing slash) 301 in one hop to a 200 page
+  ok [redirects] archive pattern /category/blog/ → 301 journal/approach
+  ok [redirects] archive pattern /category/news/page/2/ → 301 journal/approach
+  ok [redirects] archive pattern /tag/holistic/ → 301 journal/approach
+  ok [redirects] archive pattern /2021/08/ → 301 journal/approach
+  ok [404] /no-such-page/ returns real 404 with branded page
+  ok [404] /care/no-such-treatment/ returns real 404 with branded page
+  ok [404] /journal/no-such-article/ returns real 404 with branded page
+  ok [404] /services/ returns real 404 with branded page
+  ok [admin] /website-editor/ requires login
+  ok [seo] sitemap hidden (404) in staging mode
+  ok [gating] launch: unapproved /care/massage/ returns 404
+  ok [gating] launch: unapproved /care/dermal-fillers/ returns 404
+  ok [gating] launch: unapproved /care/pain-management/ returns 404
+  ok [gating] launch: unapproved /care/sleep-apnea/ returns 404
+  ok [gating] launch: no page links an unapproved optional service
+  ok [gating] launch: additional-care hub hides optional block when none approved
+  ok [seo] launch: sitemap returns 200 XML
+  ok [seo] launch: sitemap excludes optional services and journal
+  ok [seo] launch: sitemap excludes retired acupuncture/updates
+  ok [seo] launch: all 33 sitemap URLs return 200
+  ok [seo] launch: robots.txt lists theme sitemap
+  ok [seo] core wp-sitemap disabled (single truthful sitemap)
+  ok [seo] launch: canonical present on home
+  ok [seo] launch: noindex removed
+  ok [seo] launch: canonical on /care/implants/ is self-referencing
+  ok [journal] launch: unapproved journal returns 404
+  ok [journal] launch: journal links removed from home
+  ok [redirects] launch: archive redirect falls back to /care/approach/ while journal hidden
+  ok [reviews] launch: review excerpts hidden until approved
+  ok [reviews] launch: homepage review excerpts hidden until approved
+  ok [journal] launch: approved journal returns 200 without staging note
+  ok [seo] launch: approved journal + massage appear in sitemap
+  ok [gating] launch: approved massage page returns 200
+  ok [gating] launch: approved massage appears on hub; others still hidden
+  ok [reviews] launch: approved reviews visible without staging note
+  ok [editor] override replaces H1, lead and intro on /care/implants/
+  ok [editor] override keeps rest of treatment page (FAQ, comparison)
+  ok [editor] expired service window returns 404
+  ok [editor] expired service removed from directory
+  ok [editor] future start date hides service (404)
+  ok [editor] "Hide this service" returns 404
+  ok [editor] new editor-created listing appears in directory
+  ok [editor] new editor-created listing page renders 200
+  ok [editor] featured listing appears on homepage
+  ok [editor] implants restored after override removed
+  ok [assistant] endpoint returns 503 when no server key configured (default)
+  ok [assistant] cross-origin request rejected (403)
+  ok [assistant] unapproved optional topic refused (404)
+  ok [assistant] free-text fields rejected (400)
+  ok [assistant] approved topic answered
+  ok [assistant] provider receives approved public facts only (no visitor text)
+  ok [privacy] public pages set no cookies
+  ok [security] no API keys / private keys committed in theme
+  ok [responsive] no horizontal overflow / console errors / failed assets across route × viewport matrix
+  ok [a11y] 200% zoom (640 CSS px) reflows without horizontal scroll
+  ok [menu] mobile header shows primary Schedule action
+  ok [menu] menu opens: aria-expanded=true and body scroll locked
+  ok [menu] focus moves into the menu
+  ok [menu] Tab focus stays trapped in menu/button
+  ok [menu] drawer offers call and schedule actions
+  ok [menu] Escape closes menu and returns focus to button
+  ok [a11y] first Tab reaches visible skip link
+  ok [a11y] skip link moves focus to main
+  ok [a11y] keyboard focus indicator visible
+  ok [search] 11 spec queries return the expected treatment
+  ok [search] "sleep" returns no unapproved sleep-apnea listing (gated by design)
+  ok [search] no-results shows empty state with suggestions + live status
+  ok [search] empty-state suggestion chip re-runs search
+  ok [search] Escape clears search and restores full list
+  ok [search] homepage search deep link /care/?q=kids filters directory
+  ok [faq] FAQ opens with keyboard (Enter on summary)
+  ok [faq] FAQ closes with keyboard
+  ok [content] /care/implants/ has 4+ substantive FAQs
+  ok [assistant] launcher does not overlap header Schedule action
+  ok [assistant] dialog opens modal with focus inside
+  ok [assistant] hours question answered from approved facts
+  ok [assistant] urgent symptoms redirected to phone/911, no advice
+  ok [assistant] personal details are not echoed back
+  ok [assistant] visible human handoff in dialog
+  ok [assistant] Escape closes dialog and returns focus to launcher
+  ok [booking] no scheduler configured → honest "Call to schedule" with tel link
+  ok [booking] no page claims "Book online" while unconfigured
+  ok [a11y] prefers-reduced-motion: no running animations
+  ok [a11y] interactive targets ≥24×24 CSS px on mobile (WCAG 2.5.8)
+  ok [a11y] axe-core: zero serious/critical violations on key templates (390 + 1440)
+  ok [performance] lab metrics (local PHP server, mobile viewport)
+  ok [privacy] no third-party requests (analytics/trackers/fonts) on key pages
+  ok [admin] Raina Website settings screen loads for administrator
+  ok [admin] optional-service approvals save from admin form
+  ok [admin] clearing every optional-service checkbox persists (empty list)
+  ok [booking] non-PatientViewer URL rejected with an error
+  ok [booking] PatientViewer HTTPS URL accepted and saved
+  ok [booking] configured: online scheduling button primary, opens new tab safely @390
+  ok [booking] configured: online scheduling button primary, opens new tab safely @1440
+  ok [booking] configured scheduling URL responds (GET only, nothing submitted)
+
+456 PASS · 0 FAIL · 0 BLOCKED
