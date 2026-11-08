@@ -31,6 +31,19 @@ with zipfile.ZipFile(zpath, 'w', zipfile.ZIP_DEFLATED) as z:
             continue
         z.write(p, ('raina-nocturne' / rel).as_posix())
 
+PREVIEW_UI = r"""<?php
+/* Preview-only: hides WordPress admin chrome so clients see just the Raina editor. Never deploy. */
+add_filter('show_admin_bar', '__return_false');
+add_action('admin_head', function () {
+    echo '<style>#adminmenumain,#wpadminbar,#wpfooter,.update-nag,.notice-warning{display:none!important}#wpcontent,#wpfooter{margin-left:0!important}html.wp-toolbar{padding-top:0!important}#raina-back{position:fixed;left:12px;bottom:12px;z-index:99999;background:#12332f;color:#fff;padding:10px 16px;border-radius:999px;font:600 14px system-ui;text-decoration:none;box-shadow:0 2px 8px rgba(0,0,0,.3)}</style>';
+});
+add_action('admin_footer', function () {
+    if (($_GET['page'] ?? '') !== 'raina-website') {
+        echo '<a id="raina-back" href="' . esc_url(admin_url('admin.php?page=raina-website')) . '">&larr; Back to website editor</a>';
+    }
+});
+"""
+
 blueprint = {
     '$schema': 'https://playground.wordpress.net/blueprint-schema.json',
     'landingPage': '/',
@@ -39,6 +52,7 @@ blueprint = {
     'steps': [
         {'step': 'installTheme', 'themeData': {'resource': 'url', 'url': url}, 'options': {'activate': True}},
         {'step': 'setSiteOptions', 'options': {'blogname': 'Raina Dental Care (preview)', 'permalink_structure': '/%postname%/'}},
+        {'step': 'writeFile', 'path': '/wordpress/wp-content/mu-plugins/raina-preview-ui.php', 'data': PREVIEW_UI},
         {'step': 'runPHP', 'code': "<?php require '/wordpress/wp-load.php'; flush_rewrite_rules(false);"},
     ],
 }
